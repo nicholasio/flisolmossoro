@@ -399,6 +399,9 @@ nav {
   margin-bottom: 30px;
   border-bottom: 1px dashed #e7e7e7;
 }
+.speakers-item.no-photo {
+    padding-left: 0;
+}
 .speaker-photo {
   position: absolute;
   top: 0;
